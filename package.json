@@ -1,0 +1,24 @@
+{
+  "name": "ai4ram-e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnrathiai/ai4ram-e2e.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rnrathiai/ai4ram-e2e/issues"
+  },
+  "homepage": "https://github.com/rnrathiai/ai4ram-e2e#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
